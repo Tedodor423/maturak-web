@@ -1,5 +1,5 @@
  .u-section-1 {
-  min-height: 1319px;
+  min-height: 1459px;
 }
 
 .u-section-1 .u-text-1 {
@@ -15,7 +15,7 @@
 
 .u-section-1 .u-text-3 {
   font-weight: 400;
-  margin: 20px auto 0;
+  margin: 20px auto 0 60px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -26,7 +26,8 @@
 .u-section-1 .u-text-4 {
   font-weight: 400;
   font-family: "Abril Fatface";
-  margin: 20px auto 0;
+  width: 210px;
+  margin: 160px auto 0;
 }
 
 .u-section-1 .u-text-5 {
